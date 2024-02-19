@@ -1,7 +1,7 @@
 # Research-on-Neural-Network-Performance
 Evaluating with full factorial design the impact of hyperparameters on a neural network's performance based on MNIST written numbers dataset 
-
-Since the first day I learned about the importance of hyperparameters in machine
+## Conclusion
+/Since the first day I learned about the importance of hyperparameters in machine
 learning, I have been curious about whether there is an optimistic solution for the setting of
 hyperparameters for all environments. However, when the situation changed, the
 settings of hyperparameters needed to be altered to accommodate new models and
@@ -17,7 +17,8 @@ three hyperparameters are more determinant in the case of the MNIST dataset. In 
 experiment, I also found the interactions between different hyperparameters can be very
 interesting, and their inter-changing reveals some of the thorough properties of neural
 networks.
-This experiment is a complete study in the sense of Full Factorial Design. However,
+/
+/This experiment is a complete study in the sense of Full Factorial Design. However,
 there are always more things to do. When evaluating the location and dispersion effects,
 the experiments refer to a visual approach for better intuitionistic understanding, but I
 did not employ the numerical approach to calculate the exact number following
